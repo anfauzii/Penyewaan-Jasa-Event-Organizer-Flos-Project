@@ -1,0 +1,137 @@
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\FlosProjects.exe.config
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\FlosProjects.exe
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\FlosProjects.pdb
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\Guna.UI.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\MetroFramework.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.csproj.AssemblyReference.cache
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.Dashboard.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.Login.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.Properties.Resources.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.csproj.GenerateResource.cache
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.csproj.CoreCompileInputs.cache
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.exe
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.pdb
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataUser.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\Guna.UI2.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\MySqlConnector.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Buffers.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Memory.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Numerics.Vectors.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\MySqlConnector.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Buffers.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Memory.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Numerics.Vectors.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataBarang.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataDetailPesanan.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataEvent.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataJenisPembayaran.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataKategori.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataPesanan.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\FlosProjects\FlosProjects\obj\Debug\FlosProjects.DataProgressPesanan.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\FlosProjects.exe.config
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\FlosProjects.exe
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\FlosProjects.pdb
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySqlConnector.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Buffers.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Memory.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySqlConnector.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Buffers.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Memory.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.AssemblyReference.cache
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.Dashboard.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataBarang.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataDetailPesanan.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataJenisPembayaran.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataPesanan.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataUser.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.Login.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.Properties.Resources.resources
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.GenerateResource.cache
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.CoreCompileInputs.cache
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.CopyComplete
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.exe
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.pdb
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Google.Protobuf.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySimpleConnection.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySql.Data.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\ZstdNet.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Google.Protobuf.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySql.Data.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Kosen Gaming Gear\Documents\TUGAS-TUGAS\Pemrog\FINAL PROJEK\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\NuGet.Frameworks.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\FlosProjects.exe.config
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\FlosProjects.exe
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\FlosProjects.pdb
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\BouncyCastle.Crypto.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Hash.xxHash.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySimpleConnection.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySqlConnector.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\NuGet.Frameworks.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Buffers.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.IO.Pipelines.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Memory.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Numerics.Vectors.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Ubiety.Dns.Core.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\ZstdNet.dll
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Google.Protobuf.pdb
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\Google.Protobuf.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\K4os.Hash.xxHash.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySql.Data.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\MySqlConnector.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\NuGet.Frameworks.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Buffers.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.IO.Pipelines.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Memory.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Numerics.Vectors.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.Dashboard.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataBarang.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataDetailPesanan.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataJenisPembayaran.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataPesanan.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.DataUser.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.Login.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.Properties.Resources.resources
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.csproj.CopyComplete
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.exe
+D:\Kuliah\Semester 3\ST122 - PEMROGRAMAN LANJUT\PEMROGRAMAN LANJUT\Penyewaan-Jasa-Event-Organizer-Flos-Project\FlosProjects\obj\Debug\FlosProjects.pdb
